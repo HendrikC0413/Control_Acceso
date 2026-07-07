@@ -63,8 +63,8 @@ A continuación se presentan evidencias visuales del entorno gráfico del sistem
 ```text
 ├── src/                      # Código fuente de la aplicación Python
 │   ├── Control/              # Aquí se encuentran todos los controladores del sistema.
-│   ├── Modelo/              # Aquí se encuentran todos los Modelos del sistema.
-│   ├── Vista/              # Aquí se encuentran todos las Vistas del sistema.  
+│   ├── Modelo/               # Aquí se encuentran todos los Modelos del sistema.
+│   ├── Vista/                # Aquí se encuentran todos las Vistas del sistema.  
 │   ├── app.py                # Punto de entrada de la aplicación
 │   └── requeriments.txt      # Requerimientos de la instalación.
 ├── database/                 # Scripts de la base de datos
