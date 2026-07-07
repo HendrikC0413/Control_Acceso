@@ -70,9 +70,6 @@ A continuación se presentan evidencias visuales del entorno gráfico del sistem
 ├── database/                 # Scripts de la base de datos
 │   └── schema.sql            # Definición DDL del esquema relacional
 ├── diagrams/                 # Diagramas de arquitectura e imágenes de interfaz
-│   ├── clases.png
-│   ├── secuencia.png
-│   └── pantalla_marcacion.png
 ├── docs/                     # Documentación formal del proyecto (PDFs)
 │   ├── especificacion_requerimientos.pdf
 │   ├── diccionario_datos.pdf
